@@ -48,4 +48,7 @@ The project is designed with the following components:
     docker-compose up
     ```
 
+## Reference Repo
 
+Recreated and reference to following the idea of this repo:
+https://github.com/airscholar/e2e-data-engineering
