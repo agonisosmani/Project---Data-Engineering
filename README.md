@@ -43,12 +43,7 @@ The project is designed with the following components:
     git clone https://github.com/agonisosmani/Project---Data-Engineering
     ```
 
-2. Navigate to the project directory:
-    ```bash
-    cd e2e-data-engineering
-    ```
-
-3. Run Docker Compose to spin up the services:
+2. Run Docker Compose to spin up the services:
     ```bash
     docker-compose up
     ```
